@@ -1,0 +1,8 @@
+﻿  Blackjack.cpp
+D:\VS source\repo\ConsoleApplication1\ConsoleApplication1\Deck.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Blackjack.cpp')
+  
+D:\VS source\repo\ConsoleApplication1\ConsoleApplication1\Deck.h(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Blackjack.cpp')
+  
+  ConsoleApplication1.vcxproj -> D:\VS source\repo\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
